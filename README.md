@@ -1,6 +1,6 @@
 ## Hola bienvenidos!!! 
 
-<img align="right" height="200" src=
+<img src="https://ibb.co/TM3fCP2S"/>
 
 - 👨‍🎓 Estudiante
 - 📚 Secundario en Bachiller de Economía: EES N°34
