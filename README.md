@@ -9,7 +9,7 @@
 🤯 Actualmente estoy aprendiendo:...
 - Lenguajes:
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,visualstudio,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 - Otras herramientas:
 
