@@ -1,7 +1,5 @@
 ## Hola bienvenidos!!! 
 
-<img src="https://pin.it/3p7m13Dzd"/>
-
 - 👨‍🎓 Estudiante
 - 📚 Secundario en Bachiller de Economía: EES N°34
 - 🏛️ Nivel Superior: I.S.F.T N°172
