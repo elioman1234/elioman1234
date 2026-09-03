@@ -1,7 +1,14 @@
 ## Hola bienvenidos!!! 
-Soy Carlos Elian Paz estudiante del ISFT N°172 de carrera Comunicación Multimedial.
 
-Actualmente estoy aprendiendo:...
+<img align="right" height="200" src=
+
+- 👨‍🎓 Estudiante
+- 📚 Secundario en Bachiller de Economía: EES N°34
+- 🏛️ Nivel Superior: I.S.F.T N°172
+- 🌍 ARG, Buenos Aires, Lomas de Zamora
+- 📪 Email: eliopaz98@outlook.com
+
+🤯 Actualmente estoy aprendiendo:...
 - Lenguajes:
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,visualstudio,vscode)](https://skillicons.dev)
